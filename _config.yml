@@ -2,7 +2,7 @@ title:            Kakikomi
 tagline:          A place where words are penned.
 description:      Blog.
 #Comment out url when working locally to resolve base urls correctly
-#url: http://jekyll.gtat.me
+url: http://victorneo.github.io
 
 # Owner/author information
 owner:
