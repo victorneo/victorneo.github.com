@@ -1,0 +1,55 @@
+title:            Kakikomi
+tagline:          A place where words are penned.
+description:      Blog.
+#Comment out url when working locally to resolve base urls correctly
+#url: http://jekyll.gtat.me
+
+# Owner/author information
+owner:
+  name:           Victor Neo
+  avatar:         avatar.png
+  bio:            "Python, Django and English Breakfast Tea. Lead Engineer at Carousell"
+  email:          victorneo@sees-design.net
+  twitter:        victorneo
+  github:         victorneo
+  instagram:      victor_neo
+  location:       "Singapore"
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/victorneo
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Singapore
+future:      true
+pygments:    true
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
