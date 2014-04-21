@@ -30,12 +30,12 @@ after a few months. I would love to know your opinion and comments on them on
 
 ### Social Media and News
 
-Social media can often a huge time sink. You spend time posting status updates,
+Social media can often be a huge time sink. You spend time posting status updates,
 reading and replying to your best friend's shared posts and media,
 participating in viral loops... etc. From another perspective, the huge inflow
 of information actually allows one to learn and discuss about new ideas more
 rapidly than reading them in the wild. In contrast with Facebook, Twitter
-actually makes it easier for you the filter and read interesting or
+actually makes it easier for you to filter and read interesting or
 thought-provoking updates from other engineers.
 
 - [Twitter lists](https://support.twitter.com/articles/76460-using-twitter-lists#) is an
@@ -136,7 +136,7 @@ community and user support team in their daily work.
 
 ### Going Forward
 
-I pretty excited over how my current continuous learning plans will work out in
+I am pretty excited over how my current continuous learning plans will work out in
 the long run. MOOCs give me the structured classroom feel for discipline and
 podcasts + news makes commute much more bearable as they are now learning
 sessions.
