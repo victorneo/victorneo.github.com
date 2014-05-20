@@ -53,9 +53,9 @@ attendees would complain.
 The number of attendees exceeded the capacity for the main hall used for
 Keynotes and lightning talks so some of us had to move to a higher platform at
 the back for a seat. Most of us were unaware of that smaller conference rooms
-used for talks had a live-case of keynotes - I only found out during the second
-day when I forgot that there was a keynote and waited for a normal talk to
-began. I do not recall hearing any announcements made about the live-cast. Then
+used for talks had a live-cast of keynotes - I only found out during the second
+day when I forgot that there was a keynote and waited for a regular talk to
+begin. I do not recall hearing any announcements made about the live-cast. Then
 again, the microphone volume was quite soft at the rear end of the conference
 hall so I most likely missed the announcement.
 
