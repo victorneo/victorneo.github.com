@@ -14,7 +14,7 @@ I have had the opportunity of attending [PyCon APAC
 2014](https://tw.pycon.org/2014apac/) held in Taipei over the last weekend. As
 the chairman for PyCon Singapore this year, I was very interested to learn how
 other countries organized PyCon in the APAC region (while controlling my
-excitment for attending my first overseas conference).
+excitement for attending my first overseas conference).
 
 Parts of the conference that I found interesting will be summarized here
 followed by my own thoughts as a fellow conference organizer. Pardon any
