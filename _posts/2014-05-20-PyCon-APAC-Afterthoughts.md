@@ -10,7 +10,7 @@ image:
 
 ### Going abroad
 
-I have had the opportunity of attending [PyCon APAC
+I have had the opportunity to attend [PyCon APAC
 2014](https://tw.pycon.org/2014apac/) held in Taipei over the last weekend. As
 the chairman for PyCon Singapore this year, I was very interested to learn how
 other countries organized PyCon in the APAC region (while controlling my
@@ -136,7 +136,7 @@ fun mental exercise for me.
 
 Despite using English for most day to day conversations in Singapore, I managed
 to transition to Mandarin for conversations with fellow attendees here pretty
-easily. I personally felt that conversations I had here in Mandarin was a lot
+easily. I personally felt that conversations I had here in Mandarin were a lot
 more colorful and interesting than English. To quote one of my Taiwanese
 friends: "語言真的是很有趣的連結", which I believe can be loosely translated as
 "Language connects people in interesting ways".
