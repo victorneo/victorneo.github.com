@@ -38,7 +38,7 @@ example, if your phone number (provided when purchasing the ticket) ends with
 012, you would belong to the 0 ~ 400 queue. This was a particularly interesting
 scheme because I have no idea how the distribution of phone numbers looked
 like. By 9am, I noticed that there were still a number of attendees who were
-still in their respective queues waiting to get their tote bag and name tag. I
+in their respective queues waiting to get their tote bag and name tag. I
 suppose that coming on time is never a good idea when attending a (huge)
 conference.
 
